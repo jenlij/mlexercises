@@ -1,3 +1,4 @@
+// https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483
 const KNN = require('ml-knn');
 const csv = require('csvtojson');
 const prompt = require('prompt');
