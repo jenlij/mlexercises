@@ -1,0 +1,25 @@
+{
+  "name": "mlexperiments",
+  "version": "1.0.0",
+  "description": "ML exercises",
+  "main": "index.js",
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "ml-regression": "^4.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenlij/mlexercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenlij/mlexercises/issues"
+  },
+  "homepage": "https://github.com/jenlij/mlexercises#readme"
+}
