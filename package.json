@@ -5,7 +5,9 @@
   "main": "index.js",
   "dependencies": {
     "csvtojson": "^1.1.7",
-    "ml-regression": "^4.4.2"
+    "ml-knn": "^2.1.0",
+    "ml-regression": "^4.4.2",
+    "prompt": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
